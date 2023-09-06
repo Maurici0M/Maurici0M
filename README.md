@@ -14,25 +14,48 @@ Acesse o site que eu ajudei a desenvolver:
 
 <h1><!--Somente para criação da linha--></h1>
 
-<div align='center' style='display: flex; text-align: center; justify-content: center; align-itens: center; gap: 1%' >
+<div align='center' style='display: flex; text-align: center; justify-content: center; align-itens: center; gap: 2%' >
 
-<img src='https://github-readme-stats.vercel.app/api?username=Maurici0M&show_icons=true&theme=tokyonight'>
+<img src='https://github-readme-stats.vercel.app/api?username=Maurici0M&show_icons=true&theme=tokyonight' style='height: 200'>
 
-<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Maurici0M&theme=blue-green'>
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Maurici0M&theme=blue-green' style='height: 200'>
 
 </div>
 
-<h1><!--Somente para criação da linha--></h1>
+<br>
+
+<h3 align='center'>Ferramentas (Conhecimento inicial)</h3>
+
+<div style='display:flex; justify-content: center; gap: 3%'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style='height: 50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style='height: 50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style='height: 50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style='height: 50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style='height: 50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style='height: 50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style='height: 50'/>
+
+</div>
 
 <br>
 
 <h3 align='center'>Contato</h3>
 <h1><!--Somente para criação da linha--></h1>
 
+
 <p>Caso queira me contatar, acesse meu perfil do LinkedIn clicando na imagem abaixo: 😊</p> 
+
+
 
 <div align='initial'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-marques-costa-994b25210/)
 
-</div> 
+</div>
+
+<br>
+
+<p>Obrigado por visitar minha página GitHub! ❤️</p>
+
+<p>Veja alguns de meus projetos públicos: 📂</p>
