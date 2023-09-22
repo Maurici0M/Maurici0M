@@ -57,7 +57,7 @@ Acesse o site que eu ajudei a desenvolver:
 
 <br>
 
-![snake gif](https://github.com/Maurici0M/Maurici0M/blob/output/github-contribution-grid-snake.svg)
+
 
 <br>
 
