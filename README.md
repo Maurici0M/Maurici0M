@@ -6,9 +6,9 @@ Sou um estudante curioso e dedicado, sempre em busca de novos conhecimentos. Rec
 
 Projetos que ajudei a desenvolver:
 
-[![Site](https://img.shields.io/badge/Grid_da_Notícia-Acesse-gren)](https://github.com/Maurici0M/grupo5_proz#readme) 
+[![Site](https://img.shields.io/badge/Grid_da_Notícia-Acesse-gren)](https://github.com/Maurici0M/grid_da_noticia_grupo5_proz?tab=readme-ov-file#-saiba--sobre-o-projeto-) 
 
-[![Site](https://img.shields.io/badge/Carrossel_de_Músicas-Acesse-red)](https://github.com/Maurici0M/ang-carrossel-de-musicas#readme) 
+[![Site](https://img.shields.io/badge/Carrossel_de_Músicas-Acesse-red)](https://github.com/Maurici0M/ang-carrossel-de-musicas?tab=readme-ov-file#bem-vindos-ao-carrossel-de-m%C3%BAsicas-20) 
 
 <br>
 
