@@ -31,7 +31,7 @@ Projetos que ajudei a desenvolver:
 
 <div align='center' style='display:flex; justify-content: center; gap: 3%'>
 <!-- https://devicon.dev/?form=MG0AV3 link do site com os ícones utilizados!-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style='height: 50px' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style='height: 50px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style='height: 50px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style='height: 50px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style='height: 50px' />
