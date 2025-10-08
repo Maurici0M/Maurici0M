@@ -10,6 +10,8 @@ Projetos que ajudei a desenvolver:
 
 [![Site](https://img.shields.io/badge/Carrossel_de_Músicas-Acesse-red)](https://github.com/Maurici0M/ang-carrossel-de-musicas?tab=readme-ov-file#bem-vindos-ao-carrossel-de-m%C3%BAsicas-20) 
 
+[![Site](https://img.shields.io/badge/API_Java-Acesse-yellow)](https://github.com/Maurici0M/cardinalidade?tab=readme-ov-file#desafio-api-rest) 
+
 <br>
 
 <h3 align='center'>Informações de Perfil GitHub</h3>
